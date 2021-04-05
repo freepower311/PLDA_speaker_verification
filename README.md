@@ -3,7 +3,7 @@
 This project is comparation of hinge loss function and the logical loss function in task of speaker verification.
 
 ## Article
-It is mainly based on this [article](http://www.fit.vutbr.cz/research/groups/speech/publi/2011/cumani_icassp2011_4852.pdf).
+It is mainly based on this [article](http://www.fit.vutbr.cz/research/groups/speech/publi/2011/cumani_icassp2011_4852.pdf). Pairwise Discriminative Speaker Verification in the I-Vector Space / Sandro Cumani, Niko Brummer, Lukas Burget, Pietro Laface, Oldrich Plchot, and Vasileios Vasilakakis. // IEEE TRANSACTIONS ON AUDIO, SPEECH, AND LANGUAGE PROCESSING, VOL. 21, NO. 6, 2013. С. 1217-1227.
 
 ## Function description
 ### score (w, F1, F2)
